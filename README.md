@@ -1,0 +1,1 @@
+Landing Page created using HTML and CSS for a Portfolio Project as a requirement for ALX Africa.
